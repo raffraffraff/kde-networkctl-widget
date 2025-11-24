@@ -1,0 +1,26 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "your@email.com",
+                "Name": "Plasma NetworkCtl Widget"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Control systemd-networkd interfaces",
+        "Icon": "network-wired",
+        "Id": "org.kde.plasma.networkctl",
+        "License": "GPL-2.0+",
+        "Name": "NetworkCtl Widget",
+        "Version": "1.0",
+        "Website": "https://kde.org"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.networkctl"
+    ]
+}

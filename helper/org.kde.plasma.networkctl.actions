@@ -1,0 +1,5 @@
+[org.kde.plasma.networkctl.setup]
+Name=Manage Network Interfaces
+Description=Control network interface states
+Policy=auth_admin
+Persistence=session

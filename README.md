@@ -1,6 +1,6 @@
 # Plasma NetworkCtl Widget
 
-KDE Plasma 6 widget for controlling systemd-networkd network interfaces with proper privilege separation following KDE's recommended architecture.
+KDE Plasma 6 widget for controlling systemd-networkd network interfaces with proper privilege separation following KDE's recommended architecture. Mostly created using Copilot / Claude Sonnet 4.5. Just about works, looks like ass, doesn't let you configure the interfaces (yet). 
 
 ![License](https://img.shields.io/badge/license-GPL--2.0--or--later-blue)
 ![Plasma](https://img.shields.io/badge/Plasma-6-blue)
